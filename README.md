@@ -1,2 +1,2 @@
 # HeiMa-Blog
-a simple blog
+a simple blog using express
