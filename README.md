@@ -1,2 +1,2 @@
-# HeiMa-Blog
-a simple blog using express
+# Blog
+一个简单的博客系统。
